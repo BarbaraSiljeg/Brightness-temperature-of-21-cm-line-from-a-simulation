@@ -7,6 +7,6 @@ To run the code you need data cubes for density distribution of neutral hydrogen
 and resolution for your spectrum. There is also a possibility to include the beam and the spectral resolution of your false measurements. Also, if you are not sure about the 
 optically thin medium condition, there is a possibility to verify this condition at the end of the code.
 
-To use the code you simply need to download the $Brightness temperature of 21-cm line from a simulation.ipynb$ file and open it in some Python notebook.
+To use the code you simply need to download the $BT_21-cm.ipynb$ file and open it in some Python notebook.
 
 Good luck!
